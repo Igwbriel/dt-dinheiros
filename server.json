@@ -15,6 +15,14 @@
       "category": "alimentação",
       "price": 15,
       "createAt": "2023-10-12T18:40:26.282Z"
+    },
+    {
+      "id": 3,
+      "description": "Hamburgão",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 20,
+      "createAt": "2023-10-12T18:40:26.282Z"
     }
   ]
 }
