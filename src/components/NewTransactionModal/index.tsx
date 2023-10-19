@@ -11,7 +11,6 @@ import {
 } from './styles'
 import { ArrowCircleDown, ArrowCircleUp, X } from 'phosphor-react'
 import { Controller, useForm } from 'react-hook-form'
-import { api } from '../../lib/axios'
 import { useContext } from 'react'
 import { TransactionsContext } from '../../contexts/TransactionsContext'
 

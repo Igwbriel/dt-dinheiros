@@ -39,6 +39,38 @@
       "type": "outcome",
       "createdAt": "2023-10-12T23:40:49.279Z",
       "id": 5
+    },
+    {
+      "description": "Cachorro quent",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2023-10-18T00:54:26.256Z",
+      "id": 6
+    },
+    {
+      "description": "Açai",
+      "category": "Alimentação",
+      "price": 99,
+      "type": "outcome",
+      "createdAt": "2023-10-18T00:54:58.407Z",
+      "id": 7
+    },
+    {
+      "description": "compra de moto",
+      "category": "parcela",
+      "price": 857,
+      "type": "outcome",
+      "createdAt": "2023-10-18T00:55:31.964Z",
+      "id": 8
+    },
+    {
+      "description": "aa",
+      "category": "wwww",
+      "price": 1,
+      "type": "income",
+      "createdAt": "2023-10-18T00:55:54.653Z",
+      "id": 9
     }
   ]
 }
