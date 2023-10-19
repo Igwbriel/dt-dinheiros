@@ -37,11 +37,15 @@ Antes de rodar o projeto, também é necessário rodar o servidor, para acessar 
   npm run dev:server
 ```
 
-## Passo 4
+## Passo 5
 
 Tudo pronto, agora basta rodar o projeto usando:
 
 ```bash
   npm run dev
 ```
+<div style = "dysplay: inline_block">
+<img align = "center" alt = "react" height = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
+<img align = "center" alt = "ts" height = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</div>
