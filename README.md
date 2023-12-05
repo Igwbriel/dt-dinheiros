@@ -18,7 +18,7 @@ Clonagem do repositório usando:
 Em seguida, vá para o repósitorio na sua IDE usando:
 
 ```bash
-  cd INK-chronicles
+  cd dt-dinheiros
 ```
 
 ## Passo 3
